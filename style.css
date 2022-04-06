@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: sans-serif;
+}
+
+#navbar{
+    position: sticky;
+    top: 0%;
+    z-index: 10;
+
+}
+
+.navbar{
+    background-image: linear-gradient(to right ,#a517ba , #5f1782);
+}
+.navbar-brand
+{
+    height: 40px;
+    padding-left:20px;
+    color: #fff !important;
+}
+.navbar li
+{
+    padding: 0 10px;
+}
+.navbar-nav li a 
+{
+    color: #fff ! important;
+font-weight: 600;
+}
+.navbar-toggler-icon
+{
+    color: #fff !important;
+
+}
